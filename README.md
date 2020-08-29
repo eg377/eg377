@@ -40,7 +40,11 @@
 
 [<img align="left" alt="Protractor" width="45px" src="https://raw.githubusercontent.com/devicons/devicon/7178157ef9aca1da403d1e73229a02af8571bd36/icons/protractor/protractor-plain-wordmark.svg" />][linkedin] 
 
+[<img align="left" alt="Jasmine" width="45px" src="https://raw.githubusercontent.com/devicons/devicon/7178157ef9aca1da403d1e73229a02af8571bd36/icons/jasmine/jasmine-plain-wordmark.svg" />][linkedin] 
+
 [<img align="left" alt="PHP" width="45px" src="https://raw.githubusercontent.com/devicons/devicon/7178157ef9aca1da403d1e73229a02af8571bd36/icons/php/php-original.svg" />][linkedin] 
+
+[<img align="left" alt="Java" width="45px" src="https://raw.githubusercontent.com/devicons/devicon/7178157ef9aca1da403d1e73229a02af8571bd36/icons/java/java-original-wordmark.svg" />][linkedin] 
 
 [<img align="left" alt="Gradle" width="45px" src="https://raw.githubusercontent.com/devicons/devicon/7178157ef9aca1da403d1e73229a02af8571bd36/icons/gradle/gradle-plain-wordmark.svg" />][linkedin] 
 
@@ -73,6 +77,10 @@
 [<img align="left" alt="Chrome" width="45px" src="https://raw.githubusercontent.com/devicons/devicon/7178157ef9aca1da403d1e73229a02af8571bd36/icons/chrome/chrome-original.svg" />][linkedin] 
 
 [<img align="left" alt="Photoshop" width="45px" src="https://raw.githubusercontent.com/devicons/devicon/7178157ef9aca1da403d1e73229a02af8571bd36/icons/photoshop/photoshop-line.svg" />][linkedin] 
+
+[<img align="left" alt="JetBrains" width="45px" src="https://raw.githubusercontent.com/devicons/devicon/7178157ef9aca1da403d1e73229a02af8571bd36/icons/jetbrains/jetbrains-original.svg" />][linkedin] 
+
+[<img align="left" alt="IntelliJ IDEA" width="45px" src="https://raw.githubusercontent.com/devicons/devicon/7178157ef9aca1da403d1e73229a02af8571bd36/icons/intellij/intellij-original-wordmark.svg" />][linkedin] 
 
 [<img align="left" alt="Webstorm" width="45px" src="https://raw.githubusercontent.com/devicons/devicon/7178157ef9aca1da403d1e73229a02af8571bd36/icons/webstorm/webstorm-original-wordmark.svg" />][linkedin] 
 
@@ -112,3 +120,7 @@ Here are some ideas to get you started:
 -->
 
 [linkedin]: https://www.linkedin.com/in/edelg/
+
+<!--
+icons:
+ttps://github.com/devicons/devicon/tree/master/icons-->
