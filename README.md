@@ -10,6 +10,8 @@
 
 [<img align="left" alt="HTML5" width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][linkedin] 
 
+[<img align="left" alt="Handlebars" width="45px" src="https://raw.githubusercontent.com/devicons/devicon/7178157ef9aca1da403d1e73229a02af8571bd36/icons/handlebars/handlebars-original-wordmark.svg" />][linkedin] 
+
 [<img align="left" alt="CSS3" width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][linkedin] 
 
 [<img align="left" alt="Sass" width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />][linkedin] 
@@ -20,19 +22,27 @@
 
 [<img align="left" alt="Vue" width="45px" src="https://raw.githubusercontent.com/devicons/devicon/7178157ef9aca1da403d1e73229a02af8571bd36/icons/vuejs/vuejs-original-wordmark.svg" />][linkedin] 
 
-[<img align="left" alt="Backbone" width="45px" src="https://raw.githubusercontent.com/devicons/devicon/7178157ef9aca1da403d1e73229a02af8571bd36/icons/backbonejs/backbonejs-original.svg" />][linkedin] 
+[<img align="left" alt="Backbone" width="45px" src="https://raw.githubusercontent.com/devicons/devicon/7178157ef9aca1da403d1e73229a02af8571bd36/icons/backbonejs/backbonejs-original-wordmark.svg" />][linkedin] 
 
-[<img align="left" alt="Angular" width="45px" src="https://raw.githubusercontent.com/devicons/devicon/7178157ef9aca1da403d1e73229a02af8571bd36/icons/angularjs/angularjs-original.svg" />][linkedin] 
+[<img align="left" alt="Angular" width="45px" src="https://raw.githubusercontent.com/devicons/devicon/7178157ef9aca1da403d1e73229a02af8571bd36/icons/angularjs/angularjs-plain-wordmark.svg" />][linkedin] 
 
-[<img align="left" alt="React" width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][linkedin] 
+[<img align="left" alt="TypeScript" width="45px" src="https://raw.githubusercontent.com/devicons/devicon/7178157ef9aca1da403d1e73229a02af8571bd36/icons/typescript/typescript-plain.svg" />][linkedin] 
+
+[<img align="left" alt="React" width="45px" src="https://raw.githubusercontent.com/devicons/devicon/7178157ef9aca1da403d1e73229a02af8571bd36/icons/react/react-original-wordmark.svg" />][linkedin] 
 
 [<img align="left" alt="GraphQL" width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />][linkedin] 
 
-[<img align="left" alt="Node.js" width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][linkedin] 
+[<img align="left" alt="Node.js" width="45px" src="https://raw.githubusercontent.com/devicons/devicon/7178157ef9aca1da403d1e73229a02af8571bd36/icons/nodejs/nodejs-original-wordmark.svg" />][linkedin] 
 
 [<img align="left" alt="Grunt" width="45px" src="https://raw.githubusercontent.com/devicons/devicon/7178157ef9aca1da403d1e73229a02af8571bd36/icons/grunt/grunt-original-wordmark.svg" />][linkedin] 
 
+[<img align="left" alt="Protractor" width="45px" src="https://raw.githubusercontent.com/devicons/devicon/7178157ef9aca1da403d1e73229a02af8571bd36/icons/protractor/protractor-plain-wordmark.svg" />][linkedin] 
+
+[<img align="left" alt="PHP" width="45px" src="https://raw.githubusercontent.com/devicons/devicon/7178157ef9aca1da403d1e73229a02af8571bd36/icons/php/php-original.svg" />][linkedin] 
+
 [<img align="left" alt="Gradle" width="45px" src="https://raw.githubusercontent.com/devicons/devicon/7178157ef9aca1da403d1e73229a02af8571bd36/icons/gradle/gradle-plain-wordmark.svg" />][linkedin] 
+
+[<img align="left" alt="Python" width="45px" src="https://raw.githubusercontent.com/devicons/devicon/7178157ef9aca1da403d1e73229a02af8571bd36/icons/python/python-original-wordmark.svg" />][linkedin] 
 
 [<img align="left" alt="SQL" width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][linkedin] 
 
@@ -50,9 +60,15 @@
 
 [<img align="left" alt="docker" width="45px" src="https://raw.githubusercontent.com/devicons/devicon/7178157ef9aca1da403d1e73229a02af8571bd36/icons/docker/docker-original-wordmark.svg" />][linkedin] 
 
-[<img align="left" alt="AWS" width="45px" src="https://raw.githubusercontent.com/devicons/devicon/7178157ef9aca1da403d1e73229a02af8571bd36/icons/amazonwebservices/amazonwebservices-original.svg" />][linkedin] 
+[<img align="left" alt="redhat" width="45px" src="https://raw.githubusercontent.com/devicons/devicon/7178157ef9aca1da403d1e73229a02af8571bd36/icons/redhat/redhat-original-wordmark.svg" />][linkedin] 
+
+[<img align="left" alt="AWS" width="45px" src="https://raw.githubusercontent.com/devicons/devicon/7178157ef9aca1da403d1e73229a02af8571bd36/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />][linkedin]
+
+[<img align="left" alt="Heroku" width="45px" src="https://raw.githubusercontent.com/devicons/devicon/7178157ef9aca1da403d1e73229a02af8571bd36/icons/heroku/heroku-plain-wordmark.svg" />][linkedin] 
 
 [<img align="left" alt="Chrome" width="45px" src="https://raw.githubusercontent.com/devicons/devicon/7178157ef9aca1da403d1e73229a02af8571bd36/icons/chrome/chrome-original.svg" />][linkedin] 
+
+[<img align="left" alt="Photoshop" width="45px" src="https://raw.githubusercontent.com/devicons/devicon/7178157ef9aca1da403d1e73229a02af8571bd36/icons/photoshop/photoshop-line.svg" />][linkedin] 
 
 <br/>
 
