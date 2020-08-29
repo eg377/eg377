@@ -18,6 +18,8 @@
 
 [<img align="left" alt="JavaScript" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][linkedin] 
 
+[<img align="left" alt="Vue" width="35px" src="https://raw.githubusercontent.com/devicons/devicon/7178157ef9aca1da403d1e73229a02af8571bd36/icons/vuejs/vuejs-original-wordmark.svg" />][linkedin] 
+
 [<img align="left" alt="Backbone" width="35px" src="https://raw.githubusercontent.com/devicons/devicon/7178157ef9aca1da403d1e73229a02af8571bd36/icons/backbonejs/backbonejs-original.svg" />][linkedin] 
 
 [<img align="left" alt="Angular" width="35px" src="https://raw.githubusercontent.com/devicons/devicon/7178157ef9aca1da403d1e73229a02af8571bd36/icons/angularjs/angularjs-original.svg" />][linkedin] 
