@@ -24,6 +24,8 @@
 
 [<img align="left" alt="Backbone" width="45px" src="https://raw.githubusercontent.com/devicons/devicon/7178157ef9aca1da403d1e73229a02af8571bd36/icons/backbonejs/backbonejs-original-wordmark.svg" />][linkedin] 
 
+[<img align="left" alt="jQuery" width="45px" src="https://raw.githubusercontent.com/devicons/devicon/7178157ef9aca1da403d1e73229a02af8571bd36/icons/jquery/jquery-original-wordmark.svg" />][linkedin] 
+
 [<img align="left" alt="Angular" width="45px" src="https://raw.githubusercontent.com/devicons/devicon/7178157ef9aca1da403d1e73229a02af8571bd36/icons/angularjs/angularjs-plain-wordmark.svg" />][linkedin] 
 
 [<img align="left" alt="TypeScript" width="45px" src="https://raw.githubusercontent.com/devicons/devicon/7178157ef9aca1da403d1e73229a02af8571bd36/icons/typescript/typescript-plain.svg" />][linkedin] 
@@ -50,6 +52,8 @@
 
 [<img align="left" alt="MongoDB" width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />][linkedin] 
 
+[<img align="left" alt="PostgreSQL" width="45px" src="https://raw.githubusercontent.com/devicons/devicon/7178157ef9aca1da403d1e73229a02af8571bd36/icons/postgresql/postgresql-original-wordmark.svg" />][linkedin] 
+
 [<img align="left" alt="Git" width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][linkedin] 
 
 [<img align="left" alt="GitHub" width="45px" src="https://raw.githubusercontent.com/devicons/devicon/7178157ef9aca1da403d1e73229a02af8571bd36/icons/github/github-original-wordmark.svg" />][linkedin] 
@@ -70,8 +74,13 @@
 
 [<img align="left" alt="Photoshop" width="45px" src="https://raw.githubusercontent.com/devicons/devicon/7178157ef9aca1da403d1e73229a02af8571bd36/icons/photoshop/photoshop-line.svg" />][linkedin] 
 
+[<img align="left" alt="Webstorm" width="45px" src="https://raw.githubusercontent.com/devicons/devicon/7178157ef9aca1da403d1e73229a02af8571bd36/icons/webstorm/webstorm-original-wordmark.svg" />][linkedin] 
+
 <br/>
 
+&nbsp;
+
+<br/>
 &nbsp;
 
 <br/>
