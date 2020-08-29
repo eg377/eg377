@@ -22,7 +22,6 @@
 
 [<img align="left" alt="Angular" width="35px" src="https://raw.githubusercontent.com/devicons/devicon/7178157ef9aca1da403d1e73229a02af8571bd36/icons/angularjs/angularjs-original.svg" />][linkedin] 
 
-
 [<img align="left" alt="React" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][linkedin] 
 
 [<img align="left" alt="GraphQL" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />][linkedin] 
@@ -51,9 +50,11 @@
 
 [<img align="left" alt="AWS" width="35px" src="https://raw.githubusercontent.com/devicons/devicon/7178157ef9aca1da403d1e73229a02af8571bd36/icons/amazonwebservices/amazonwebservices-original.svg" />][linkedin] 
 
-[<img align="left" alt="Chrome" width="35px" src="https://raw.githubusercontent.com/devicons/devicon/7178157ef9aca1da403d1e73229a02af8571bd36/icons/chrome/chrome-original.svg" />][linkedin] 
+[<img align="left" alt="Chrome" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/7178157ef9aca1da403d1e73229a02af8571bd36/icons/chrome/chrome-original.svg" />][linkedin] 
 
-<br><br>
+<br/>
+
+<br/>
 
 <details>
   <summary>:zap: Github Stats</summary>
