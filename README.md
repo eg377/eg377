@@ -96,13 +96,14 @@
 
 &nbsp;
 
+<!--
 <details>
   <summary>:zap: Github Stats</summary>
 
   <img align="left" alt="eg377's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=eg377&show_icons=true&hide_border=true" />
 
 </details>
-
+-->
 
 <!--
 **eg377/eg377** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
