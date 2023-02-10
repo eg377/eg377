@@ -24,9 +24,13 @@
 
 [<img align="left" alt="Backbone" width="55px" src="https://raw.githubusercontent.com/devicons/devicon/7178157ef9aca1da403d1e73229a02af8571bd36/icons/backbonejs/backbonejs-original-wordmark.svg" />][linkedin] 
 
+[<img align="left" alt="Webpack" width="55px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/webpack/webpack.png" />][linkedin] 
+
 [<img align="left" alt="jQuery" width="55px" src="https://raw.githubusercontent.com/devicons/devicon/7178157ef9aca1da403d1e73229a02af8571bd36/icons/jquery/jquery-original-wordmark.svg" />][linkedin] 
 
 [<img align="left" alt="Angular" width="55px" src="https://raw.githubusercontent.com/devicons/devicon/7178157ef9aca1da403d1e73229a02af8571bd36/icons/angularjs/angularjs-plain-wordmark.svg" />][linkedin] 
+
+[<img align="left" alt="npm" width="55px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/npm/npm.png" />][linkedin] 
 
 [<img align="left" alt="TypeScript" width="55px" src="https://raw.githubusercontent.com/devicons/devicon/7178157ef9aca1da403d1e73229a02af8571bd36/icons/typescript/typescript-plain.svg" />][linkedin] 
 
@@ -44,9 +48,15 @@
 
 [<img align="left" alt="PHP" width="55px" src="https://raw.githubusercontent.com/devicons/devicon/7178157ef9aca1da403d1e73229a02af8571bd36/icons/php/php-original.svg" />][linkedin] 
 
-[<img align="left" alt="Java" width="55px" src="https://raw.githubusercontent.com/devicons/devicon/7178157ef9aca1da403d1e73229a02af8571bd36/icons/java/java-original-wordmark.svg" />][linkedin] 
+[<img align="left" alt="Java" width="55px" src="https://raw.githubusercontent.com/devicons/devicon/7178157ef9aca1da403d1e73229a02af8571bd36/icons/java/java-original-wordmark.svg" />][linkedin]
+
+[<img align="left" alt="Maven" width="55px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/maven/maven.png" />][linkedin]
 
 [<img align="left" alt="Gradle" width="55px" src="https://raw.githubusercontent.com/devicons/devicon/7178157ef9aca1da403d1e73229a02af8571bd36/icons/gradle/gradle-plain-wordmark.svg" />][linkedin] 
+
+[<img align="left" alt="XML" width="55px" src="https://raw.githubusercontent.com/github/explore/05a6f4c574a32b6b2f04c2e589f6c82d9df46a5d/topics/xml/xml.png" />][linkedin
+
+[<img align="left" alt="Spring Boot" width="55px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/spring-boot/spring-boot.png" />][linkedin]
 
 [<img align="left" alt="Python" width="55px" src="https://raw.githubusercontent.com/devicons/devicon/7178157ef9aca1da403d1e73229a02af8571bd36/icons/python/python-original-wordmark.svg" />][linkedin] 
 
@@ -68,12 +78,16 @@
 
 [<img align="left" alt="Terminal" width="55px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][linkedin] 
 
+[<img align="left" alt="Vim" width="55px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vim/vim.png" />][linkedin] 
+
 [<img align="left" alt="docker" width="55px" src="https://raw.githubusercontent.com/devicons/devicon/7178157ef9aca1da403d1e73229a02af8571bd36/icons/docker/docker-original-wordmark.svg" />][linkedin] 
 
 [<img align="left" alt="
 Kubernetes" width="55px" src="https://raw.githubusercontent.com/github/explore/01ea2a586e5da744792d0ccfce2f68b861f29301/topics/kubernetes/kubernetes.png" />][linkedin] 
 
 [<img align="left" alt="Linux" width="55px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" />][linkedin] 
+
+[<img align="left" alt="Ubuntu" width="55px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ubuntu/ubuntu.png" />][linkedin] 
 
 [<img align="left" alt="redhat" width="55px" src="https://raw.githubusercontent.com/devicons/devicon/7178157ef9aca1da403d1e73229a02af8571bd36/icons/redhat/redhat-original-wordmark.svg" />][linkedin] 
 
@@ -92,6 +106,8 @@ Kubernetes" width="55px" src="https://raw.githubusercontent.com/github/explore/0
 [<img align="left" alt="IntelliJ IDEA" width="55px" src="https://raw.githubusercontent.com/devicons/devicon/7178157ef9aca1da403d1e73229a02af8571bd36/icons/intellij/intellij-original-wordmark.svg" />][linkedin] 
 
 [<img align="left" alt="Webstorm" width="55px" src="https://raw.githubusercontent.com/devicons/devicon/7178157ef9aca1da403d1e73229a02af8571bd36/icons/webstorm/webstorm-original-wordmark.svg" />][linkedin] 
+
+[<img align="left" alt="Unity" width="55px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/unity/unity.png" />][linkedin] 
 
 [<img align="left" alt="LaTex" width="55px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/markdown/markdown.png" />][linkedin]
 
