@@ -81,6 +81,8 @@ Kubernetes" width="45px" src="https://raw.githubusercontent.com/github/explore/0
 
 [<img align="left" alt="Heroku" width="45px" src="https://raw.githubusercontent.com/devicons/devicon/7178157ef9aca1da403d1e73229a02af8571bd36/icons/heroku/heroku-plain-wordmark.svg" />][linkedin] 
 
+[<img align="left" alt="macOS" width="45px" src="https://raw.githubusercontent.com/github/explore/868696fc547869eb5de5add3b3695abdd43bb9dc/topics/macos/macos.png" />][linkedin] 
+
 [<img align="left" alt="Chrome" width="45px" src="https://raw.githubusercontent.com/devicons/devicon/7178157ef9aca1da403d1e73229a02af8571bd36/icons/chrome/chrome-original.svg" />][linkedin] 
 
 [<img align="left" alt="Photoshop" width="45px" src="https://raw.githubusercontent.com/devicons/devicon/7178157ef9aca1da403d1e73229a02af8571bd36/icons/photoshop/photoshop-line.svg" />][linkedin] 
@@ -91,8 +93,11 @@ Kubernetes" width="45px" src="https://raw.githubusercontent.com/github/explore/0
 
 [<img align="left" alt="Webstorm" width="45px" src="https://raw.githubusercontent.com/devicons/devicon/7178157ef9aca1da403d1e73229a02af8571bd36/icons/webstorm/webstorm-original-wordmark.svg" />][linkedin] 
 
+[<img align="left" alt="LaTex" width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/markdown/markdown.png" />][linkedin]
 
+[<img align="left" alt="LaTex" width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/latex/latex.png" />][linkedin] 
 
+[<img align="left" alt="MATLAB" width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/matlab/matlab.png" />][linkedin] 
 
 <br/>
 
