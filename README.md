@@ -54,7 +54,7 @@
 
 [<img align="left" alt="Gradle" width="55px" src="https://raw.githubusercontent.com/devicons/devicon/7178157ef9aca1da403d1e73229a02af8571bd36/icons/gradle/gradle-plain-wordmark.svg" />][linkedin] 
 
-[<img align="left" alt="XML" width="55px" src="https://raw.githubusercontent.com/github/explore/05a6f4c574a32b6b2f04c2e589f6c82d9df46a5d/topics/xml/xml.png" />][linkedin
+[<img align="left" alt="XML" width="55px" src="https://raw.githubusercontent.com/github/explore/05a6f4c574a32b6b2f04c2e589f6c82d9df46a5d/topics/xml/xml.png" />][linkedin]
 
 [<img align="left" alt="Spring Boot" width="55px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/spring-boot/spring-boot.png" />][linkedin]
 
