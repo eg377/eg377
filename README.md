@@ -86,6 +86,11 @@
 
 [<img align="left" alt="Go" width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png" />][linkedin] 
 
+[<img align="left" alt="Linux" width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" />][linkedin] 
+
+[<img align="left" alt="
+Kubernetes" width="45px" src="https://raw.githubusercontent.com/github/explore/01ea2a586e5da744792d0ccfce2f68b861f29301/topics/kubernetes/kubernetes.png" />][linkedin] 
+
 <br/>
 
 &nbsp;
